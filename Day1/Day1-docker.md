@@ -60,7 +60,7 @@ consistently across any environment.**
 
 Here\'s a visual to conceptualize it:
 
-![](media\image3.png)
+![alt text](image3.png)
 
 ### 3. Containers vs. Virtual Machines: A Resource Efficiency Showdown
 
@@ -70,7 +70,7 @@ uses a great analogy of houses vs. apartments.
 
 #### Virtual Machines (VMs): The \"Independent House\" Approach
 
-![](media\image2.png)
+![alt text](image2.png)
 
 -   **Structure:** Each VM runs on top of a hypervisor (e.g., VMware,
     > VirtualBox) and includes its **entire guest operating system
@@ -120,7 +120,7 @@ Docker is the most popular platform for building, shipping, and running
 containers. Let\'s trace the journey of an application through the
 Docker ecosystem.
 
-![](media\image1.png)
+![alt text](image1.png)
 ### 1. Docker File
 
 The process begins with a **Docker File**. This is a simple text file
@@ -216,4 +216,4 @@ download the image from the registry and run it.
 To understand how Docker works under the hood, let\'s look at its core
 architecture.
 
-![](media\image4.png)
+![alt text](image4.png)
